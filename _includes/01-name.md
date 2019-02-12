@@ -1,5 +1,5 @@
-#Végert Bence, a legnagyobb király.
+# Végert Bence, a legnagyobb király.
 
-##The best man
+## The best man
 
-######The best of the best
+###### The best of the best
